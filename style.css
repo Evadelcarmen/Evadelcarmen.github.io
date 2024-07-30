@@ -1,0 +1,33 @@
+*{
+    font-family: "Oswald", sans-serif;
+}
+header{
+background-color: #8D493A;
+}
+header span{
+    font-family: "Playwrite AU NSW", cursive;
+    color: #FFF5E1;
+
+}
+.nav-item a{
+    color: #DFD3C3;
+}
+#button{
+    background-color: #DEAC80;
+}
+.nav-item a:visited{
+    color: #DFD3C3;
+}
+.nav-item a:hover{
+    color: #FFF8E3;
+}
+.bi{
+    font-size: 30px;
+}
+.img-proyecto1{
+    background-image: url('/IMAGENES/clon.png');
+    background-size:contain;
+    background-repeat:no-repeat ;
+}
+
+
