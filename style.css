@@ -30,5 +30,21 @@ header span{
     background-size:contain;
     background-repeat:no-repeat ;
 }
+footer{
+    background-color: #DEAC80;
+}
+footer .icon-footer i{
+    color: #FFF8E3;
+
+}
+footer p{
+    color: #FFF5E1;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+footer p a{
+    color: #8D493A;
+}
+
+
 
 
