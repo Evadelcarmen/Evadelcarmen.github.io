@@ -26,6 +26,7 @@ header span{
 }
 .img-proyecto1{
     background-image: url('/IMAGENES/clon.png');
+    opacity: 0.6 ;
     background-size:contain;
     background-repeat:no-repeat ;
 }
